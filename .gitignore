@@ -1,0 +1,13 @@
+# .gitignore ファイルの中身
+
+# Python
+__pycache__/
+*.pyc
+venv/
+bert_env/
+
+# モデルファイル
+*.bin
+*.safetensors
+*.pkl
+bert_multitask_model/

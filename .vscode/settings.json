@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "pytorch/third_party/protobuf/csharp/src/Google.Protobuf.sln"
+}

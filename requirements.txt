@@ -1,0 +1,15 @@
+Flask
+gunicorn
+torch==2.1.2
+transformers==4.36.0
+scikit-learn
+pandas
+numpy<2.0
+openpyxl
+tqdm
+sudachipy
+sudachidict-core
+neologdn
+fugashi
+ipadic
+unidic-lite
